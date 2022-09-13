@@ -1,7 +1,6 @@
 package com.design.pattern.simple.factory;
 
 import lombok.extern.slf4j.Slf4j;
-import lombok.var;
 
 /**
  * @author zhangwei151
