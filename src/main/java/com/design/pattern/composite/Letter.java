@@ -15,6 +15,6 @@ public class Letter extends LetterComposite {
 
     @Override
     protected void printThisBefore() {
-        System.out.println(letter);
+        System.out.print(letter);
     }
 }

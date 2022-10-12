@@ -19,9 +19,9 @@ public class App {
         Messenger messenger = new Messenger();
 
         log.info("message from the orcs:");
-        messenger.messageFromOrcs();
+        messenger.messageFromOrcs().print();
 
         log.info("message from the elves:");
-        messenger.messageFromElves();
+        messenger.messageFromElves().print();
     }
 }
